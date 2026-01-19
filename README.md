@@ -64,7 +64,17 @@ sanskrit-english-quiz/
 Q.1: रामः अयोध्यायाः राजा आसीत्। (True/False): True
 You got it right!
 The correct answer was True.
-Your current score is 1/1
+Your current score is 1/1.
+
+Q.2: The Earth revolves around the Sun. (True/False): True
+You got it right!
+The correct answer was True.
+Your current score is 2/2.
+```
+
+## Run the program
+```
+python main.py
 ```
 ## 🎁 Surprise
 
