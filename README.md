@@ -41,6 +41,8 @@ sanskrit-english-quiz/
 └── README.md # This file
 ```
 
+---
+
 ## 🕹️ How to Play
 
 - A question will appear in the console
@@ -59,6 +61,8 @@ sanskrit-english-quiz/
 
 - At the end, your final score will be displayed
 
+---
+
 ## 💡Example
 ```
 Q.1: रामः अयोध्यायाः राजा आसीत्। (True/False): True
@@ -71,11 +75,15 @@ You got it right!
 The correct answer was True.
 Your current score is 2/2.
 ```
+---
 
 ## Run the program
 ```
 python main.py
 ```
+
+---
+
 ## 🎁 Surprise
 
 Here’s a little Sanskrit wisdom for you, hidden as a reward for completing the quiz:
