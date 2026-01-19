@@ -80,6 +80,6 @@ python main.py
 
 Here’s a little Sanskrit wisdom for you, hidden as a reward for completing the quiz:
 ```
-सत्यं वद, धर्मं चर, आत्मा ज्ञानम् अधिगच्छ।
-Speak the truth, follow dharma, and seek self-knowledge.
+ज्ञानेन तु तदज्ञानं येषां नष्टमात्मनः।
+By knowledge, one destroys the ignorance of the Self.
 ```
